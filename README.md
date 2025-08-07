@@ -62,16 +62,43 @@ Fitness Buddy is an AI-powered virtual fitness coach designed to offer personali
 ## 🖼️ Screenshots
 ### 🔹 Setting up..
 ![setup](setup.jpg)
-
 ### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.png)
+![Agent Instructions](agent_instruction.png)
 ### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
+![quick_start_questions](quick_start_question.jpg)
 ### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool&testing.jpg)
+![Tools](tools&testing.jpg)
 ### 🔹 Deployment & Preview...
 ![Deployment & Testing](deployment.jpg)
 ### 🔹 Result...
 ![result](result.jpg)
 ### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
+![resourse_list.jpg](resource_list.jpg)
+
+## 📌 How to Run or Deploy
+
+1. Log in to IBM Cloud Lite: https://cloud.ibm.com
+2. Launch Watsonx.ai Studio
+3. Create a new AI Agent
+4. Upload financial PDFs to a Vector Index
+5. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
+6. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
+7. Test in the preview panel
+8. Deploy via web snippet, Streamlit, or custom web UI
+
+---
+
+## 🛣️ Future Scope
+
+- WhatsApp or mobile app integration  
+- Speech-to-text input for voice-driven queries  
+- Automatic monthly report generation
+
+## 🔗 Useful Links
+
+- [IBM Cloud Lite](https://cloud.ibm.com/registration)
+- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
+- [IBM SkillsBuild](https://skillsbuild.org)
+
+  > Created during the IBM SkillsBuild for Academia Internship 2025 by **Rahul Kapoor**
+
